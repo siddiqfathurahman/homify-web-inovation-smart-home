@@ -40,7 +40,13 @@ const FAQ = () => {
                     quarterly, and annual options. Pricing starts at $49/month depending 
                     on your needs. We also offer a Custom Home Setup service starting at $99."
                 />
-
+                <FAQ_Accordion
+                    question="How does Homify help save energy?"
+                    answer="Homify provides Energy Saving Reports that give insights into 
+                    your energy usage. With smart automation features, like thermostats and 
+                    smart lighting, you can significantly reduce energy consumption and 
+                    lower your utility bills."
+                />
             </section>
         </section>
     )
